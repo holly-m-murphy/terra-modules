@@ -3,7 +3,7 @@ module "frontend"{
 }
 
 module "backend"{
-  source = ".aws_instances"
+  source = "./aws_instances"
   region = "us-east-2"
   total_instances = 2
 }

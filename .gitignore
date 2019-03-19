@@ -1,0 +1,3 @@
+form.tfstate.lock.info
+.terraform/
+terraform.tfstate
